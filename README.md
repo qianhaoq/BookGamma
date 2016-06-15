@@ -1,2 +1,2 @@
-This is README.
-BookGamma是一个辅助读书的app.
+锘縏his is README.
+BookGamma鏄竴涓緟鍔╄涔︾殑app.
